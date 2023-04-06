@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Canvas Michelin Man</title>
+  </head>
+  <body>
+    <canvas id="canvas" width="400" height="400"></canvas>
+    <script>
+      const canvas = document.getElementById("canvas");
+      const ctx = canvas.getContext("2d");
+
+      // corpo
+      ctx.beginPath();
+      ctx.fillStyle = "#ffffff";
+      ctx.arc(200, 200, 100, 0, Math.PI * 2);
+      ctx.fill();
+
+      // braccia
+      ctx.beginPath();
+      ctx.lineWidth = 30;
+      ctx.moveTo(100, 200);
+      ctx.lineTo(300, 200);
+      ctx.stroke();
+
+      // gambe
+      ctx.beginPath();
+      ctx.lineWidth = 30;
+      ctx.moveTo(150, 300);
+      ctx.lineTo(200, 200);
+      ctx.lineTo(250, 300);
+      ctx.stroke();
+
+      // occhi
+      ctx.beginPath();
+      ctx.fillStyle = "#000000";
+      ctx.arc(170, 170, 10, 0, Math.PI * 2);
+      ctx.arc(230, 170, 10, 0, Math.PI * 2);
+      ctx.fill();
+
+      // bocca
+      ctx.beginPath();
+      ctx.fillStyle = "#ff0000";
+      ctx.arc(200, 230, 40, Math.PI, 0);
+      ctx.fill();
+    </script>
+  </body>
+</html>
