@@ -66,26 +66,27 @@ vedere trascritte alcune righe esplicative di codice.
 
 
 ```JavaScript
-const image = new Image();
-image.onload = () => {
-	gl.bindTexture(gl.TEXTURE_2D, texture);
-	gl.texImage2D(
-		gl.TEXTURE_2D,
-		level,
-		internalFormat,
-		srcFormat,
-		srcType,
-		image
-	);
-	if (isPowerOf2(image.width) && isPowerOf2(image.height)) {
-		gl.generateMipmap(gl.TEXTURE_2D);
-	} else {
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
-	}
-};
-image.src = url;
+ if (idx === 16) {
+				     const nextKeypoint = hand.keypoints[idx + 4]; // KeyPoint 20 è 4 posizioni più avanti
+					 ctx.beginPath();
+					 ctx.moveTo(keypoint.x, keypoint.y);
+					 ctx.lineTo(nextKeypoint.x, nextKeypoint.y);
+					 ctx.strokeStyle = 'black';
+					 ctx.lineWidth = 25;
+					 ctx.stroke();
+
+
+
+
+					  // Cerchio nel punto medio tra i keypoint 20 e 16, spostato verso il basso di 50 pixel
+					  const middleX = (keypoint.x + nextKeypoint.x) / 2;
+					  const middleY = (keypoint.y + nextKeypoint.y) / 2 + 30;
+					  ctx.beginPath();
+					  ctx.arc(middleX, middleY, 6, 0, 2 * Math.PI);
+					  ctx.fillStyle = 'black';
+					  ctx.fill()
+
+				    }
 ```
 
 ## Target e contesto d’uso
