@@ -40,6 +40,10 @@ https://user-images.githubusercontent.com/Marcusolosmileconfuso.mp4
 
 
 
+https://github.com/MMartinaMMatteri/marionettaface/assets/127389607/b7b88692-560e-45f2-aa10-6bebc8af09b4
+
+
+
 
 ## Design dell’interfraccia e modalià di interazione
 Il design della mia marionetta si basa su quattro principali keypoint. Ogni
