@@ -36,8 +36,7 @@ suggerendo un vero e proprio carattere.
 
 
 
-
-https://Users\marti\OneDrive\Documenti\SUPSICV2\Interactiondesign\matteri_marcusoLoSmileConfuso\marionettaface\0_template_README\doc\Marcusolosmileconfuso.mp4
+https://user-images.githubusercontent.com/Marcusolosmileconfuso.mp4
 
 
 
