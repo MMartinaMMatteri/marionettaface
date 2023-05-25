@@ -100,7 +100,7 @@ ragazzi e adulti che siano in grado di comprenderne anche se in piccola
 parte il funzionamento, in modo tale da potersi intrattenere meglio con
 questa piccola marionetta.
 
-[<img src="C:\Users\marti\OneDrive\Documenti\SUPSI CV2\Interaction design\matteri_marcusoLoSmileConfuso\marionettaface\0_template_README\doc\imgg1.png" width="300" >]()
+<img src="C:\Users\marti\OneDrive\Documenti\SUPSI CV2\Interaction design\matteri_marcusoLoSmileConfuso\marionettaface\0_template_README\doc\imgg1.png" alt="Immagine" class= "img" style=" margin-top: -90px;">
 
 
 ## Link al progetto
