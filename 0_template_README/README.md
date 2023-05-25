@@ -36,8 +36,6 @@ suggerendo un vero e proprio carattere.
 
 
 
-https://user-images.githubusercontent.com/Marcusolosmileconfuso.mp4
-
 
 
 
