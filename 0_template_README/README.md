@@ -106,6 +106,10 @@ questa piccola marionetta.
 
 
 [<img src="doc/imgg1.png" width="300" alt="Supplemento al dizionario italiano">]()
+[<img src="doc/imgg2.png" width="300" alt="Supplemento al dizionario italiano">]()
+[<img src="doc/imgg3.png" width="300" alt="Supplemento al dizionario italiano">]()
+[<img src="doc/imgg4.png" width="300" alt="Supplemento al dizionario italiano">]()
+[<img src="doc/imgg5.png" width="300" alt="Supplemento al dizionario italiano">]()
 
 
 ## Link al progetto
