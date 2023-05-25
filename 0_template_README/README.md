@@ -36,7 +36,7 @@ suggerendo un vero e proprio carattere.
 
 
 
-https://C:\Users\marti\OneDrive\Documenti\SUPSI CV2\Interaction design\matteri_marcusoLoSmileConfuso\marionettaface\0_template_README\doc\Marcuso lo smile confuso.mp4
+https://user-images.githubusercontent.com/"C:\Users\marti\OneDrive\Documenti\SUPSI CV2\Interaction design\matteri_marcusoLoSmileConfuso\marionettaface\0_template_README\doc\Marcuso lo smile confuso.mp4"
 
 
 
@@ -105,7 +105,7 @@ parte il funzionamento, in modo tale da potersi intrattenere meglio con
 questa piccola marionetta.
 
 
-[<img src="imgg1.png" width="300" ">]()
+[<img src="doc/imgg1.png" width="300" alt="Supplemento al dizionario italiano">]()
 
 
 ## Link al progetto
