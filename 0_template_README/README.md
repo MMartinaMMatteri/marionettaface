@@ -36,6 +36,10 @@ suggerendo un vero e proprio carattere.
 
 
 
+https://C:\Users\marti\OneDrive\Documenti\SUPSI CV2\Interaction design\matteri_marcusoLoSmileConfuso\marionettaface\0_template_README\doc\Marcuso lo smile confuso.mp4
+
+
+
 
 
 ## Design dell’interfraccia e modalià di interazione
