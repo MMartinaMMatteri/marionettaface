@@ -101,7 +101,7 @@ parte il funzionamento, in modo tale da potersi intrattenere meglio con
 questa piccola marionetta.
 
 
-[<img src="C:\Users\marti\OneDrive\Documenti\SUPSI CV2\Interaction design\matteri_marcusoLoSmileConfuso\marionettaface\0_template_README\doc\imgg1.png" width="300" alt="Supplemento al dizionario italiano">]()
+[<img src="imgg1.png" width="300" alt="Supplemento al dizionario italiano">]()
 
 
 ## Link al progetto
